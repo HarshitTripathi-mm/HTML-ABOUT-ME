@@ -1,0 +1,53 @@
+body{
+    background-color:black;
+}
+
+#picname{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;  
+    margin-bottom: 0%;
+    display: block;
+
+}
+#name{
+    margin-left: 34%;
+     color:red;
+     text-size-adjust: 200%;
+     text-shadow: 10em;
+     font-weight: bold;
+     font-size:xx-large;
+     
+}
+#pic{
+    margin-left:40%;
+    border-radius:50%;
+}
+#Likes{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color:#FFD580 ;
+    margin-top: 0%;
+    margin-bottom: 0%;
+  
+    
+
+}
+#movie{
+    background-color:#FFD580 ;
+
+
+    margin-top: -19px;
+    margin-bottom: 0%;
+  
+   
+    
+}
+#songs{
+    background-color:#FFD580 ;
+    
+    margin-top: -19px;
+    margin-bottom: 0%;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
